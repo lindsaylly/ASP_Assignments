@@ -1,0 +1,7 @@
+C:\Users\699135\source\repos\ASP_Exercise\Lingyan_Li_Lab4\IncidentsService\bin\IncidentsService.dll.config
+C:\Users\699135\source\repos\ASP_Exercise\Lingyan_Li_Lab4\IncidentsService\bin\IncidentsService.dll
+C:\Users\699135\source\repos\ASP_Exercise\Lingyan_Li_Lab4\IncidentsService\bin\IncidentsService.pdb
+C:\Users\699135\source\repos\ASP_Exercise\Lingyan_Li_Lab4\IncidentsService\obj\Debug\IncidentsServiceWCF.csprojAssemblyReference.cache
+C:\Users\699135\source\repos\ASP_Exercise\Lingyan_Li_Lab4\IncidentsService\obj\Debug\IncidentsServiceWCF.csproj.CoreCompileInputs.cache
+C:\Users\699135\source\repos\ASP_Exercise\Lingyan_Li_Lab4\IncidentsService\obj\Debug\IncidentsService.dll
+C:\Users\699135\source\repos\ASP_Exercise\Lingyan_Li_Lab4\IncidentsService\obj\Debug\IncidentsService.pdb

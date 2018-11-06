@@ -1,0 +1,26 @@
+﻿/*Purpose: ASP.NET Lab4
+Author: Lindsay
+Date:July, 2018*/
+
+#gvIncident {
+    border-collapse: collapse;
+    border: 1px solid blue;
+    width: 100%;
+}
+
+#gvIncident th {
+    background-color: lightblue;
+    color: black;
+    padding: 5px 7px;
+    text-align:center;
+}
+
+#gvIncident tr:nth-child(2n+1) {
+    background-color: #edeeef;
+    color: black;
+    padding: 3px;
+
+}
+
+
+

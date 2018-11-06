@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lingyan_Li_Lab3", "Lingyan_Li_Lab3\Lingyan_Li_Lab3.csproj", "{81D2519F-C5DB-49A8-82AB-1A6E9447C01D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D2519F-C5DB-49A8-82AB-1A6E9447C01D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D2519F-C5DB-49A8-82AB-1A6E9447C01D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D2519F-C5DB-49A8-82AB-1A6E9447C01D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D2519F-C5DB-49A8-82AB-1A6E9447C01D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8A2ED52-776F-43A1-9A4D-96E4E25DED56}
+	EndGlobalSection
+EndGlobal

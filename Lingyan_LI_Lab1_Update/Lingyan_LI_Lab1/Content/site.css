@@ -1,0 +1,20 @@
+﻿.auto-style1 {
+    width: 328px;
+    height: 83px;
+    
+}
+
+.jumbotron h1 {
+    font-size: 150%;
+}
+
+
+#lblOutput {
+
+    font-weight:bold;
+}
+
+#btnConvert,#btnClear {
+    width: 100%;
+    margin-bottom:10px;
+}
